@@ -40,16 +40,6 @@ INTERESES    Arquitectura de software y videojuegos
   <img src="https://img.shields.io/badge/DevExpress-FF7200?style=for-the-badge&logo=devexpress&logoColor=white" alt="DevExpress" />
 </p>
 
-### Mi objetivo
-
-Crear software útil, mantenible y bien estructurado, mientras profundizo en arquitectura, integración de servicios e infraestructura.
-
----
-
-<div align="center">
-
-[**Perfil personal**](https://github.com/Huntercookie799) · [**Perfil académico**](https://github.com/IDGS-803-23001488)
-
 *Aprender, construir y mejorar.*
 
 </div>
