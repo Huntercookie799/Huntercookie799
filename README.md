@@ -4,8 +4,6 @@
 
 **Desarrollador de software | Full Stack & Mobile**
 
-Estudiante de Ingeniería en Desarrollo y Gestión de Software
-
 Construyo soluciones de software conectando aplicaciones, lógica de negocio y bases de datos.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Huntercookie799-181717?style=flat-square&logo=github)](https://github.com/Huntercookie799)
