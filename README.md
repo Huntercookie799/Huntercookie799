@@ -1,17 +1,4 @@
  <div align="center">
-
-# Huntercookie799
-
-**Desarrollador de software | Full Stack & Mobile**
-
-Construyo soluciones de software conectando aplicaciones, lógica de negocio y bases de datos.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Huntercookie799-181717?style=flat-square&logo=github)](https://github.com/Huntercookie799)
-
-</div>
-
----
-
 ### Sobre mí
 
 Me interesa transformar problemas reales en soluciones funcionales. Me enfoco en el desarrollo web y móvil, la lógica backend, las bases de datos y la administración de entornos Linux.
