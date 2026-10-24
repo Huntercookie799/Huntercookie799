@@ -1,4 +1,3 @@
- <div align="center">
 Sobre mí
 
 Me interesa transformar problemas reales en soluciones funcionales. Me enfoco en el desarrollo web y móvil, la lógica backend, las bases de datos y la administración de entornos Linux.
@@ -28,5 +27,3 @@ INTERESES    Arquitectura de software y videojuegos
 </p>
 
 *Aprender, construir y mejorar.*
-
-</div>
