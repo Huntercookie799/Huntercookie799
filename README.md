@@ -1,5 +1,3 @@
-Sobre mí
-
 Me interesa transformar problemas reales en soluciones funcionales. Me enfoco en el desarrollo web y móvil, la lógica backend, las bases de datos y la administración de entornos Linux.
 
 ```text
