@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola, soy José Ángel! 👋
 
-<!--
-**Huntercookie799/Huntercookie799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Ingeniero de Software y Desarrollador Full-Stack**. Me enfoco en diseñar e implementar sistemas web robustos, aplicaciones móviles y arquitecturas backend escalables, priorizando el código limpio, la mantenibilidad y soluciones reales de negocio.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+
+- **Backend & APIs:** PHP (Laravel), Java (Android SDK), C# (.NET), Node.js, Express, Python.
+- **Frontend & Web:** React, TypeScript, JavaScript, Vite, Tailwind CSS, Mantine UI.
+- **Bases de Datos:** MySQL, MariaDB, PostgreSQL, SQLite, Firebird.
+- **DevOps & Entorno:** Docker, Docker Compose, Linux, Git, GitHub Actions, CI/CD.
+
+---
+
+### 🚀 Áreas de enfoque
+
+- 💻 Desarrollo de plataformas web y sistemas de gestión empresarial.
+- 📱 Aplicaciones móviles conectadas a servicios REST y flujos de datos en tiempo real.
+- 🐳 Contenedores, administración de entornos Linux y automatización de despliegues.
+- 🎮 Proyectos creativos en Godot y modelado low-poly en mis tiempos libres.
