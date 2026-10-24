@@ -27,13 +27,17 @@ INTERESES    Arquitectura de software y videojuegos
 ### Tecnologías
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,java,cs" alt="Backend y lenguajes" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,java,cs,kotlin" alt="Backend y lenguajes de programación" />
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,vite,tailwind,android" alt="Desarrollo web y móvil" />
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,docker,linux,git,github" alt="Bases de datos, infraestructura y herramientas" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Visual%20Basic%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Visual Basic .NET" />
+  <img src="https://img.shields.io/badge/DevExpress-FF7200?style=for-the-badge&logo=devexpress&logoColor=white" alt="DevExpress" />
 </p>
 
 ### Mi objetivo
